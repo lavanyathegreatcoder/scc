@@ -1,0 +1,25 @@
+h3
+  {
+    font-size: 50px !important;
+    background-color: aqua;
+    align-content: center;
+    
+  }
+
+canvas 
+  {
+  	border:1px solid black;
+  }
+
+  div
+  {
+    font-size: 20px;
+    background-size: 20px;
+    background-color: darkgreen;
+    font-style: bold;
+  }
+
+  p
+  {
+    font-size: 20px;
+  }
